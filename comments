@@ -1,4 +1,0 @@
-Data preprocessing
-- Relabel: + Fully paid: 0
-	+ Charged off, Default: 1
-- Non missing values
